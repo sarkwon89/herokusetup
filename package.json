@@ -1,0 +1,20 @@
+{
+  "name": "herokusetup",
+  "version": "1.0.0",
+  "description": "Practice to deploy to heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarkwon89/herokusetup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarkwon89/herokusetup/issues"
+  },
+  "homepage": "https://github.com/sarkwon89/herokusetup#readme"
+}
